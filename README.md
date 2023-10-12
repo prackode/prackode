@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋🏻, I'm Prakhar Agarwal</h1>
-<h3 align="center">A passionate Python developer and sport programmer</h3>
+<h3 align="center">A passionate fullstack developer and competitive programmer</h3>
 
-- 📫 How to reach me **prackode@gmail.com**
+- 📫 How to reach me **agarwalprakhar311@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
